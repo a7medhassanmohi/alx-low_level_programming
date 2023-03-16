@@ -1,8 +1,10 @@
-/*
+/**
  * main - Entry point
- * Description: 'program that use printf'
+ *
+ * Description: A C program that use printf.
+ *
  * Return: Always 0 (Success)
- */
+*/
 #include <stdio.h>
 int main(void)
 {
