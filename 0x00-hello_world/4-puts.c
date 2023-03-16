@@ -1,3 +1,8 @@
+/**
+ * main: Entry point
+ * Description: program that use put
+ * Return: 0
+ */
 #include <stdio.h>
 int main(void)
 {
