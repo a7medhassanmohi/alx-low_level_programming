@@ -1,7 +1,7 @@
 /**
- * main: Entry point
- * Description: program that use put
- * Return: 0
+ * main - Entry point
+ * Description: 'program that use put'
+ * Return: Always 0 (Success)
  */
 #include <stdio.h>
 int main(void)
